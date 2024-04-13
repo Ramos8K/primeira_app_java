@@ -1,7 +1,7 @@
 ***********************
 Dados iniciais do cliente:
 
-Nome: Gabriel da Conceição Ramosf
+Nome: Gabriel da Conceição Ramos
 Tipo conta: Corrente
 Saldo inicial: R$ 2500,00
 ***********************
